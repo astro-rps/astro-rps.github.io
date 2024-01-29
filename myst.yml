@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Astro RPS
+  # description:
+  keywords: []
+  authors: []
+  github: https://github.com/astro-rps/astro-rps.github.io
+  # bibliography: []
+site:
+  template: book-theme
+  title: Astro RPS
+  options:
+    logo: astro-rps-logo.webp
+  nav: []
+  actions:
+    - title: Learn More
+      url: 
+  domains: []
