@@ -5,7 +5,7 @@ project:
   # description:
   keywords: []
   authors: []
-  github: https://github.com/astro-rps/astro-rps.github.io
+  github: https://astro-rps.github.io
   # bibliography: []
 site:
   template: book-theme
