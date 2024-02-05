@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3001/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3002/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3001</loc>
+    <loc>http://localhost:3002</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/topiclist</loc>
+    <loc>http://localhost:3002/topiclist</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/intro</loc>
+    <loc>http://localhost:3002/intro</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/unix</loc>
+    <loc>http://localhost:3002/unix</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/environments</loc>
+    <loc>http://localhost:3002/environments</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/hunt</loc>
+    <loc>http://localhost:3002/first-python-codes</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/variables-datatypes</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/numpy-and-arrays</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/hunt</loc>
   </url>
 </urlset>
