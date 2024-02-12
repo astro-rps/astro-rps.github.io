@@ -1,34 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3005/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3006/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3005</loc>
+    <loc>http://localhost:3006</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/topiclist</loc>
+    <loc>http://localhost:3006/topiclist</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/intro</loc>
+    <loc>http://localhost:3006/intro</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/unix</loc>
+    <loc>http://localhost:3006/unix</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/environments</loc>
+    <loc>http://localhost:3006/environments</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/first-python-codes</loc>
+    <loc>http://localhost:3006/first-python-codes</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/variables-datatypes</loc>
+    <loc>http://localhost:3006/variables-datatypes</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/numpy-and-arrays</loc>
+    <loc>http://localhost:3006/numpy-and-arrays</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/hunt</loc>
+    <loc>http://localhost:3006/import-lecture</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/week2-assignment</loc>
+    <loc>http://localhost:3006/logic-lecture</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3006/loop-lecture</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3006/hunt</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3006/week2-assignment</loc>
   </url>
 </urlset>
