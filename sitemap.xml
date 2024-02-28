@@ -35,6 +35,9 @@
     <loc>http://localhost:3000/loop-lecture</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/functions</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/hunt</loc>
   </url>
   <url>
@@ -45,5 +48,8 @@
   </url>
   <url>
     <loc>http://localhost:3000/week4</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/assignment-functions</loc>
   </url>
 </urlset>
