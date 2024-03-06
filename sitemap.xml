@@ -1,58 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3011/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3012/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3011</loc>
+    <loc>http://localhost:3012</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/topiclist</loc>
+    <loc>http://localhost:3012/topiclist</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/intro</loc>
+    <loc>http://localhost:3012/intro</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/unix</loc>
+    <loc>http://localhost:3012/unix</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/environments</loc>
+    <loc>http://localhost:3012/environments</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/first-python-codes</loc>
+    <loc>http://localhost:3012/first-python-codes</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/variables-datatypes</loc>
+    <loc>http://localhost:3012/variables-datatypes</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/numpy-and-arrays</loc>
+    <loc>http://localhost:3012/numpy-and-arrays</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/import-lecture</loc>
+    <loc>http://localhost:3012/import-lecture</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/logic-lecture</loc>
+    <loc>http://localhost:3012/logic-lecture</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/loop-lecture</loc>
+    <loc>http://localhost:3012/loop-lecture</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/functions</loc>
+    <loc>http://localhost:3012/functions</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/pandas</loc>
+    <loc>http://localhost:3012/pandas</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/hunt</loc>
+    <loc>http://localhost:3012/hunt</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/week2-assignment</loc>
+    <loc>http://localhost:3012/week2-assignment</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/assignment-w3</loc>
+    <loc>http://localhost:3012/assignment-w3</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/week4</loc>
+    <loc>http://localhost:3012/week4</loc>
   </url>
   <url>
-    <loc>http://localhost:3011/assignment-functions</loc>
+    <loc>http://localhost:3012/assignment-functions</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3012/week6-lab</loc>
   </url>
 </urlset>
