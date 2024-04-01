@@ -41,6 +41,9 @@
     <loc>http://localhost:3000/pandas</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/week8-linear-regression</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/hunt</loc>
   </url>
   <url>
