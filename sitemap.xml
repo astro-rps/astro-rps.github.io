@@ -1,67 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3001/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>http://localhost:3001</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/topiclist</loc>
+    <loc>http://localhost:3001/topiclist</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/intro</loc>
+    <loc>http://localhost:3001/intro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/unix</loc>
+    <loc>http://localhost:3001/unix</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/environments</loc>
+    <loc>http://localhost:3001/environments</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/first-python-codes</loc>
+    <loc>http://localhost:3001/first-python-codes</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables-datatypes</loc>
+    <loc>http://localhost:3001/variables-datatypes</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/numpy-and-arrays</loc>
+    <loc>http://localhost:3001/numpy-and-arrays</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/import-lecture</loc>
+    <loc>http://localhost:3001/import-lecture</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/logic-lecture</loc>
+    <loc>http://localhost:3001/logic-lecture</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/loop-lecture</loc>
+    <loc>http://localhost:3001/loop-lecture</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/functions</loc>
+    <loc>http://localhost:3001/functions</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pandas</loc>
+    <loc>http://localhost:3001/pandas</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/week8-linear-regression</loc>
+    <loc>http://localhost:3001/week8-linear-regression</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/hunt</loc>
+    <loc>http://localhost:3001/hunt</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/week2-assignment</loc>
+    <loc>http://localhost:3001/week2-assignment</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/assignment-w3</loc>
+    <loc>http://localhost:3001/assignment-w3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/week4</loc>
+    <loc>http://localhost:3001/week4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/assignment-functions</loc>
+    <loc>http://localhost:3001/assignment-functions</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/week6-lab</loc>
+    <loc>http://localhost:3001/week6-lab</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/rps-week7-exoplanets</loc>
+    <loc>http://localhost:3001/rps-week7-exoplanets</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/bootstrapping-lab</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/gaussian-lab</loc>
   </url>
 </urlset>
