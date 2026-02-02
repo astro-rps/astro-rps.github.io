@@ -1,0 +1,48 @@
+```{image} ./astro-rps-header-github.png
+:alt: Astro RPS Seminar logo
+:width: 100%
+:align: center
+```
+
+This workshop series will focus on an introduction to the Python programming language in the context of physics and astrophysics applications. All research carried in these scientific fields requires the use of extensive programming, making it a bedrock skill of any scientist. In this seminar, we will start from square one, covering how to install and navigate the programming ecosystem such as the terminal/shell, before moving into how to create scientific programs in python to carry out calculations one might use in a research project. This workshop series is primarily intended for students with little to no exposure to coding or astronomy research. After taking this series, students should be prepared to tackle programming-based courses (e.g., ASTR 255/330) as well as feel comfortable applying to summer research positions. 
+
+This series meets once a week in the evening (M, 7:30-9pm) in Spring 2026. Short weekly labs will be assigned to solidify your understanding of the material.
+
+If you are interested in participating in the workshop series, please fill out [THIS INTEREST FORM](https://forms.gle/UAm7w5MiyubXLC318)!
+
+# Course Topics by Week 
+
+Week 0 (Sunday February 1 and Monday February 2nd, 2026): 
+- Bootcamp: UNIX, filesystems, environments and the Python ecosystem
+- Pure Python programming, calculations, variables, datatypes and scripts 
+
+Week 1 (February 9, 2026): 
+- Introduction to Python packages/libraries
+- Numerical Python: numpy
+
+Week 2 (February 16, 2026): 
+- Control flow, loops, program logic, and an introduction to libraries
+
+Week 3 (February 23, 2026): 
+- Functions and functional programming
+
+Week 4 (March 2, 2026): 
+- Introduction to ipython notebooks (jupyter)
+- Scientifc plotting with matplotlib
+
+Spring Break (two week hiatus)
+
+Week 5 (March 23, 2026): 
+-  Working with tabular astrophysical datasets and pandas 
+-  Advanced plotting 
+
+Week 6 (March 30, 2026): 
+- Fitting models to data
+- The scipy package
+
+Week 7 (April 6, 2026): 
+- More on model fitting 
+- Bootstrapping and uncertainties
+
+Week 8 (April 13, 2026): 
+- Working with astronomical images
